@@ -13,10 +13,10 @@ console.log(typeof 5.34)
 
 // Declare four variables without assigning values
 
-let v = ;
-let va = ;
-let vari = ;
-const sig = ;
+let v 
+let va 
+let vari
+const sig 
 
 // Declare four variables with assigned values
 
